@@ -26,8 +26,8 @@
 
 /* Begin PBXFileReference section */
 		118455661B2B1F5100FC9D47 /* startscreensaver */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = startscreensaver; sourceTree = BUILT_PRODUCTS_DIR; };
-		118455691B2B1F5100FC9D47 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		118455701B2B1F6A00FC9D47 /* SS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SS.h; sourceTree = "<group>"; };
+		118455691B2B1F5100FC9D47 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = main.m; path = startscreensaver/main.m; sourceTree = SOURCE_ROOT; };
+		118455701B2B1F6A00FC9D47 /* SS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SS.h; path = startscreensaver/SS.h; sourceTree = SOURCE_ROOT; };
 		118455711B2B201A00FC9D47 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		118455731B2B202600FC9D47 /* ScreenSaver.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ScreenSaver.framework; path = System/Library/Frameworks/ScreenSaver.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
